@@ -1,6 +1,6 @@
 {
   "name": "json-dss",
-  "description": "Documented Style Sheets convert to json",
+  "description": "Documented Style Sheets convert to json file",
   "version": "1.0.0",
   "homepage": "https://github.com/fredus0076/json-dss",
   "author": {
